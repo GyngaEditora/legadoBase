@@ -32,6 +32,8 @@
       "flags": {}
     }
   ],
-  "manifest": "url/module.json",
-  "download": "url/legadoBase.zip"
+  "system":"O Legado RPG",
+  "url": "https://github.com/GyngaEditora/legadoBase",
+  "manifest": "https://raw.githubusercontent.com/GyngaEditora/legadoBase/refs/heads/main/module.json?token=GHSAT0AAAAAAC3TECEXNL4TD557QCWIGY7QZ2U763Q",
+  "download": "https://github.com/GyngaEditora/legadoBase/archive/refs/heads/main.zip"
 }
