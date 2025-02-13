@@ -7,7 +7,6 @@
     {
       "name": "Pehdrah",
       "discord": "Pehdrah",
-      "url": "https://www.mywebsite.com/",
       "flags": {}
     },
     {
@@ -15,8 +14,8 @@
     }
   ],
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "packs": [
     {
@@ -32,8 +31,6 @@
       "flags": {}
     }
   ],
-  "system":"O Legado RPG",
-  "url": "https://github.com/GyngaEditora/legadoBase",
-  "manifest": "https://raw.githubusercontent.com/GyngaEditora/legadoBase/refs/heads/main/module.json?token=GHSAT0AAAAAAC3TECEXNL4TD557QCWIGY7QZ2U763Q",
-  "download": "https://github.com/GyngaEditora/legadoBase/archive/refs/heads/main.zip"
+  "manifest": "https://github.com/GyngaEditora/legadobase/releases/download/1.0/module.json",
+  "download": "https://github.com/GyngaEditora/legadobase/releases/download/1.0/legadoBase.zip"
 }
